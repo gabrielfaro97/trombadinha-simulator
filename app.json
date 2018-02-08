@@ -1,8 +1,8 @@
 {
   "expo": {
     "name": "Trombadinha Simulator",
-    "description": "No description",
-    "slug": "snack-Sk9J9huUz",
+    "description": "The real simulador de trombada",
+    "slug": "trombadinha-simulator",
     "privacy": "unlisted",
     "sdkVersion": "22.0.0",
     "version": "1.0.0",
