@@ -34,9 +34,8 @@ export default class Game extends React.Component {
   };
 
   componentWillMount() {
-    THREE.suppressExpoWarnings(true);
-    /// Audio is currently broken in snack :/
-    // this.setupAudio();
+    THREE.suppressExpoWarnings(true);    
+    this.setupAudio();
   }
 
   setupAudio = async () => {
